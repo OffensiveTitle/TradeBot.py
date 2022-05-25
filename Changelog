@@ -11,3 +11,5 @@ Has the functions to buy sell and trade stocks automatically but TWS does not sh
 V0.3
 !!INCOMPLETE DO NOT USE!!
 
+Issue with orderId and orders not functioning correctly
+Connected to paper trading on localhost
